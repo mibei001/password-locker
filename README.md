@@ -5,7 +5,7 @@ User Stories
 These are the behaviours/features that the application implements for use by a user.
 
 # BUILD BY
-Gentille Moringa School
+kevin mibei
 
 # User Stories
 
@@ -22,10 +22,9 @@ As a user I would like:
 . pip
 . pyperclip
 . xclip
-. Cloning
 # In your terminal:
 
-  $ git clone https://github.com/GasaGentille/Password_locker/
+  $ git clone https://github.com/kevin mibei/Password_locker/
   $ cd Password_locker
 Running the Application
 To run the application, in your terminal:
