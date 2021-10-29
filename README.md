@@ -23,8 +23,6 @@ As a user I would like:
 . pyperclip
 . xclip
 # In your terminal:
-
-  $ git clone https://github.com/kevin mibei/Password_locker/
   $ cd Password_locker
 Running the Application
 To run the application, in your terminal:
