@@ -74,7 +74,7 @@ while True:
                     print(userAccountsInfo)
                     # Credential
                 elif(short_code == "fc"):
-                    print("Enter the site name to copy to clipboard: \n")
+                    print("Enter the site  to copy to clipboard: \n")
                     sname = input()
                     rsult = Credential.find_by_site_name(sname)
                     Credential.copy_credential(rsult)
