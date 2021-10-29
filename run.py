@@ -81,5 +81,5 @@ while True:
 
         
     else:
-        print("wrong pin please try again")
+        print("wrong password please try again")
     break
