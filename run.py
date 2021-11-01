@@ -36,7 +36,7 @@ while True:
     
     print("\n")
     
-    logIn = input("Enter your Password to logIn into the System: \n")
+    logIn = input("Enter your Password to login into the System: \n")
     if(logIn == nuser.user_holder[1]):
         print(f"Welcome {nuser.user_holder[0]} you are in what do you want to do(use short code)?")
         while True:
