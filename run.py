@@ -61,7 +61,7 @@ while True:
                     
                     
                 elif(short_code == "del"):
-                    print("Warning by contuning you will delete a credential informations,")
+                    print("Warning by contining you will delete a credential informations,")
                     res = input("are you sure you want to processed? : Y/N ").lower()
                     if(res == "y"):
                         Credential.delete_credentials(Credential.credential_holder)
