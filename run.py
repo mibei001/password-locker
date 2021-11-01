@@ -48,7 +48,7 @@ while True:
                     break
                
                 elif(short_code == "cc"):
-                    print("Please provide account info\n")
+                    print("Please provide account information\n")
                     accname = input("input account name\n")
                     username = input("input username\n")
                     password = input("input password\n")
